@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Proxies
-build_property.ProjectDir = C:\Users\user\source\repos\WebAPI_Geocerca\Proxies\
+build_property.RootNamespace = ApplicationDbContextRSQLSERVER
+build_property.ProjectDir = C:\Users\user\source\repos\WebAPI_Geocerca\src\persistence\ApplicationDbContextRSQLSERVER\
