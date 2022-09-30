@@ -6,4 +6,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Read\" />
+    <Folder Include="Write\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\src\repository\Interfaces\Interfaces.csproj" />
+  </ItemGroup>
+
 </Project>

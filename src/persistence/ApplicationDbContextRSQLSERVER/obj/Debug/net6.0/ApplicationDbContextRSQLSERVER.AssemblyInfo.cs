@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Proxies")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ApplicationDbContextRSQLSERVER")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Proxies")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Proxies")]
+[assembly: System.Reflection.AssemblyProductAttribute("ApplicationDbContextRSQLSERVER")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ApplicationDbContextRSQLSERVER")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
